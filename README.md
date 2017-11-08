@@ -10,3 +10,4 @@ Demonstrates concepts such as :
 - Composition
 - Common Android Good Practices
 - Basic CI integration
+# testTravis
